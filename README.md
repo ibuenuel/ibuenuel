@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ibuenuel
-- 👀 I’m interested in gaming, memes and music
+- 👀 Love doing stuff in the internet
 
 <!---
 ibuenuel/ibuenuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
