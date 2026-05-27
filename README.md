@@ -47,7 +47,6 @@ Currently serving as **Deputy Head of IT / Senior Software Engineer** at **learn
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Magento](https://img.shields.io/badge/Magento-EE672F?style=flat&logo=magento&logoColor=white)
 
 **Database**
 
@@ -88,7 +87,7 @@ Currently serving as **Deputy Head of IT / Senior Software Engineer** at **learn
 ### [CardBase.ch](https://cardbase.ch) — Swiss TCG Marketplace
 > The first dedicated Swiss online marketplace for Trading Card Games
 
-- 🏪 Serving **50,000+ local collectors** across Switzerland
+- 🏪 Serving **local collectors** across Switzerland
 - ⚙️ Built with **Python 3.12, Django 6.0, PostgreSQL** on custom VPS infrastructure
 - 🔄 Automated data pipeline syncing **100,000+ cards** across 6 major TCGs via REST APIs & Celery
 - 💳 Secure payments via **Stripe Connect** with escrow-based wallets & automated fee calculation
@@ -100,7 +99,7 @@ Currently serving as **Deputy Head of IT / Senior Software Engineer** at **learn
 
 - 💼 **LinkedIn:** [linkedin.com/in/ismailbuenuel](https://linkedin.com/in/ismailbuenuel)
 - 🌐 **CardBase:** [cardbase.ch](https://cardbase.ch)
-- 📍 **Location:** Geneva, Switzerland
+- 📍 **Location:** Derendingen, Switzerland
 
 ---
 
